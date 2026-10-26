@@ -53,6 +53,8 @@ a visualization. **Merged PRs get exclusive 169pi swag. 🎁**
 <!-- ────────────────────────────────────────────────────────────────── -->
 
 <!-- ENTRIES:START -->
+<img width="1254" height="1254" alt="Cozy Tech Cat Badge" src="https://github.com/user-attachments/assets/2a894b7a-48b2-4f6a-99e6-d40e2d10673a" />
+
 
 ### @169pi — the first brick 🧱
 
