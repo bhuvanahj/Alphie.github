@@ -55,6 +55,17 @@ a visualization. **Merged PRs get exclusive 169pi swag. 🎁**
 <!-- ENTRIES:START -->
 
 ### @169pi — the first brick 🧱
+Create a small square 1:1 “brick” tile for the 169Pi Good First Alpie 2026 open-source contributor wall, representing **bhuvanahj**, an anonymous CSE developer who loves coding, creativity, and cats.
+
+**Personal motif:** A minimalist black cat sitting beside a tiny terminal window, with an emerald AI chip glowing inside it. The cat represents curiosity and individuality; the terminal represents building software; the chip symbolizes 169Pi’s local, offline-first AI models built in India.
+
+**Colour palette:** Deep teal `#134E4A`, emerald `#10B981`, and blue `#0284C7`, with soft lavender as the single accent colour.
+
+**Design:** Flat vector illustration, clean geometric shapes, subtle Indian-inspired tricolour detail integrated tastefully into the AI chip, generous negative space, crisp edges, and a polished but understated indie-developer aesthetic. Use a deep teal background with a simple rounded-square composition. Keep it distinctive, charming, and human-designed rather than generic AI-generated artwork.
+
+**Text:** Include the exact username `bhuvanahj` and a tiny, legible `#GoodFirstAlpie` tag. Spell both exactly.
+
+No real name, no personal information, no photorealism, no excessive gradients, no clutter, no extra text, no watermarks. Ensure the artwork remains recognizable at small thumbnail sizes and looks clean when embedded in a GitHub README contributor wall.
 
 This wall is yours to build on. Fork the repo, add your entry right here, and
 open a PR — see **[CONTRIBUTING.md](../CONTRIBUTING.md)** for the 5-step guide.
