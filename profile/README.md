@@ -62,6 +62,16 @@ open a PR — see **[CONTRIBUTING.md](../CONTRIBUTING.md)** for the 5-step guide
 *What it represents:* the open, collaborative spirit behind everything at 169pi.
 **Contributed by [@169pi](https://github.com/169Pi)**
 
+### @bhuvanahj — Cozy Tech Cat Badge 🐈‍⬛
+
+<img width="1254" height="1254" alt="Cozy Tech Cat Badge" src="https://github.com/user-attachments/assets/d0e4dc72-46b7-4f26-9bf6-f66035df039b" />
+
+**bhuvanahj** — A curious CSE developer blending creativity and code.
+
+*What it represents:* Curiosity, creativity, and building technology through open-source collaboration.
+
+**Contributed by [@bhuvanahj](https://github.com/bhuvanahj)**
+
 <!-- ENTRIES:END -->
 
 ---
